@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "riact",
+			"path": "../../riact"
+		},
+		{
+			"name": "biomedicos",
+			"path": ".."
+		}
+	]
+}
